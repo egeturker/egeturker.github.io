@@ -1,1 +1,1 @@
-Personal website for Ege Türker
+Personal website for Ege Türker.
