@@ -38,6 +38,7 @@ h1{
     .three-columns{
         display: flex;
         justify-content: space-between;
+
     }
     .white-area{
         max-width: 1400px;
