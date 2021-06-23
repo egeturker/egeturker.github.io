@@ -224,6 +224,7 @@ input[type="submit"]{
     cursor: pointer;
     font-size: 130%;
     z-index: 1000;
+    opacity: 0;
     transition: opacity .5s;
 
 }
